@@ -12,7 +12,7 @@ UberEats Web UI Automation using Selenium - Java
 ### Execute Scenarios
 - Using Eclipse
 	- Locate (open) the scenario java file from "um/tsrc/co/uber/eats/seleniestcase".
-			- Example: src/co/uber/eats/selenium/testcase/UserScenarioChineseDragonCafe.java
+		- Example: src/co/uber/eats/selenium/testcase/UserScenarioChineseDragonCafe.java
 			
 			
 	- Right click on the file -> Run as -> Java Application
